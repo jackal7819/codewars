@@ -1,5 +1,7 @@
 --- 7 kyu --- Vowel Count ---
 
+https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript
+
 ---
 
 Return the number (count) of vowels in the given string.
