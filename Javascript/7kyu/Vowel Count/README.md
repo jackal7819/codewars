@@ -1,4 +1,4 @@
---- 7 kyu --- Vowel Count
+--- 7 kyu --- Vowel Count ---
 
 
 
