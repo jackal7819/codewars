@@ -25,4 +25,4 @@ Link to Jaden's former Twitter account @officialjaden via archive.org
 
 Джейден-Кейсед: «Как Зеркала Могут Быть Настоящими, Если Наши Глаза Не Настоящие»
 
-[@officialjaden через archive.org.](https://web.archive.org/web/20190624190255/https://twitter.com/officialjaden)
+Ссылка на бывший аккаунт Джейдена в Твиттере [@officialjaden через archive.org.](https://web.archive.org/web/20190624190255/https://twitter.com/officialjaden)
