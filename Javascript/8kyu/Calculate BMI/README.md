@@ -16,7 +16,7 @@ if bmi > 30 return "Obese"
 
 если bmi <= 18.5 вернуть "Underweight"
 
-если bmi <= 25.0 вергнуть "Normal"
+если bmi <= 25.0 вернуть "Normal"
 
 если bmi <= 30.0 вернуть "Overweight"
 
