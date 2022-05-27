@@ -1,4 +1,4 @@
----8 kyu---Multiply---
+---8 kyu---Multiply
 
 ---
 
