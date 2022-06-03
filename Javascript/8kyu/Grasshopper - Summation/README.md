@@ -6,10 +6,10 @@ Write a program that finds the summation of every number from 1 to num. The numb
 
 For example:
 
-summation(2) -> 3
+summation(2) -> 3 ->
 1 + 2
 
-summation(8) -> 36
+summation(8) -> 36 ->
 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8
 
 ---
@@ -18,8 +18,8 @@ summation(8) -> 36
 
 Например:
 
-суммирование (2) -> 3
+суммирование (2) -> 3 ->
 1 + 2
 
-суммирование (8) -> 36
+суммирование (8) -> 36 ->
 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8
