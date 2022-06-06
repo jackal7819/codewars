@@ -24,10 +24,10 @@ Note: In COBOL, it should return "found the needle at position 6"
 
 После того, как ваша функция найдет иглу, она должна вернуть сообщение (в виде строки), в котором говорится:
 
-"найдена игла в позиции " плюс индекс, в котором она нашла иглу, поэтому:
+"found the needle at position " плюс индекс, в котором она нашла иглу, поэтому:
 
 Пример (ввод --> вывод)
 
-["hay", "junk", "hay", "hay", "moreJunk", "needle", "randomJunk"] --> "найдена игла в позиции 5"
+["hay", "junk", "hay", "hay", "moreJunk", "needle", "randomJunk"] --> "found the needle at position 5"
 
 Примечание. В COBOL должно возвращаться сообщение «стрелка найдена в позиции 6».
