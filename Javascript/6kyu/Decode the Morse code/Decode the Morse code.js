@@ -1,0 +1,1 @@
+const decodeMorse = m => m.trim().split(/  | /).map(item => MORSE_CODE[item] || ' ').join('');
