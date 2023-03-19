@@ -14,10 +14,10 @@ Examples
 
 zeros(6) = 1
 
-# 6! = 1 * 2 * 3 * 4 * 5 * 6 = 720 --> 1 trailing zero
+6! = 1 * 2 * 3 * 4 * 5 * 6 = 720 --> 1 trailing zero
 
 zeros(12) = 2
 
-# 12! = 479001600 --> 2 trailing zeros
+12! = 479001600 --> 2 trailing zeros
 
 Hint: You're not meant to calculate the factorial. Find another way to find the number of zeros.
