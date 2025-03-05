@@ -16,7 +16,6 @@ var obj = {
     }
   }
 };
-```
 
 obj.hash('person.name'); // 'joe'  
 obj.hash('person.history.bio'); // { funFact: 'I like fishing.' }  
