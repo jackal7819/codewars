@@ -16,7 +16,7 @@ var one_to_nine_doubled = one_to_nine.map(multiply_by_two);
 [2, 4, 6, 8, 10, 12, 16, 18];
 ```
 
-# What do I want? I want you to create this basic, yet, really important algorithm from scratch by yourself
+What do I want? I want you to create this basic, yet, really important algorithm from scratch by yourself
 
 The Basics
 
