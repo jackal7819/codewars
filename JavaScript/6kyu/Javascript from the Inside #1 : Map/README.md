@@ -2,14 +2,14 @@
 
 ---
 
-# Description Your task is to implement our beloved Array.prototype.map function from a scratch, and yes, it has to be inside the Array's prototype. Don't know what a 'prototype' is? This could help you a little as well as this kata
+Description Your task is to implement our beloved Array.prototype.map function from a scratch, and yes, it has to be inside the Array's prototype. Don't know what a 'prototype' is? This could help you a little as well as this kata
 
 Moving on, the defaults for Array.prototype.map, Array.prototype.reduce, Array.prototype.reduceRight and Array.prototype.forEach will be banned, in other words you'll have to create map from scratch.
 
 ```js
 var one_to_nine = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 var multiply_by_two = function (x) {
-	return x * 2;
+  return x * 2;
 };
 var one_to_nine_doubled = one_to_nine.map(multiply_by_two);
 // Expected
@@ -39,7 +39,7 @@ new Array(3).concat([4]); // { '3': 4, length: 4 }
 That said, you should only apply the callback function to the items that the array posses
 That said, Have a happy Coding.
 
-# Oh, I almost forgot Your implementation for this map function should not modify the current array
+Oh, I almost forgot Your implementation for this map function should not modify the current array
 
 ```js
 var base_array = [1, 2, 3, 4, 5];
