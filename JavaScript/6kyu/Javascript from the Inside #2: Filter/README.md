@@ -1,6 +1,4 @@
----6 kyu---Javascript from the Inside #2: Filter
-
----
+# 6 kyu - Javascript from the Inside #2: Filter
 
 Previously: Map
 
