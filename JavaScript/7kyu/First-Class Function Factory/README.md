@@ -1,6 +1,6 @@
 ---7 kyu---First-Class Function Factory
 
-------
+---
 
 Write a function, factory, that takes a number as its parameter and returns another function.
 
@@ -11,7 +11,9 @@ In the example below, 5 is the number passed into the first function. So it retu
 Translations and comments (and upvotes) welcome!
 
 Example
-``js
-var fives = factory(5);       // returns a function - fives
+
+```js
+var fives = factory(5); // returns a function - fives
 var myArray = [1, 2, 3];
-fives(myArray);               //returns [5, 10, 15];
+fives(myArray); //returns [5, 10, 15];
+```
