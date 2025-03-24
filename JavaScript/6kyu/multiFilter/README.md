@@ -1,4 +1,4 @@
-# 6 kyu multiFilter
+# 6 kyu - multiFilter
 
 Write a function called multiFilter which receives a variable number of filter functions. The function should return a function that receives one element (a compound filter function).
 
