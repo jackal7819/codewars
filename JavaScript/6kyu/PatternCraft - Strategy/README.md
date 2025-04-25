@@ -14,7 +14,7 @@ In this Kata, Viking starts as a ground unit when it is created.
 
 You have `3` classes:
 
-    `Viking`: has a `position`, `moveBehavior` and `move` method.
+    `Viking`: has a `position`, `moveBehavior` and `move` method.  
     `Fly` and `Walk`: the move behaviors with the `move(unit)` method. `Fly` has to move `10` positions at a time and `Walk` has to move `1`.
 
 Resources

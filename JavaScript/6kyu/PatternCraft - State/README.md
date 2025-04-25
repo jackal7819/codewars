@@ -12,7 +12,7 @@ Complete the code so that when a `Tank` goes into `SiegeMode` it cannot move and
 
 You have 3 classes:
 
-    `Tank`: has a `state`, `canMove` and `damage` properties
+    `Tank`: has a `state`, `canMove` and `damage` properties  
     `SiegeState` and `TankState`: has `canMove` and `damage` properties
 
 Note: The tank initial state should be `TankState`.
